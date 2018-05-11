@@ -1,2 +1,2 @@
 # ML
-This is my first repo on machine learning. Learning ML.
+This repo contains my work on kaggle.
